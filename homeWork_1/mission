@@ -1,0 +1,55 @@
+Homework exercise
+
+	Agenda
+ 
+    		Approaching to Data sources;
+        		local Text files
+        		local Excel files
+        		local JSON files
+        		local HTML files
+        		Data Streams from remote (WEB) resources using some specific protocols (e.g., HTML)
+        		
+        		
+    		Analyzing what tools to use:
+        		Self-written Code (R, Python, BASH)
+        		* External Products (e.g., Tableau: https://www.tableau.com/)
+        		
+        		
+    		Extracting information from DATA:
+        		Data Analysis identifying Data Structure
+        		Cleansing
+        		Mapping existing structure to the new structure(s) (e.g., Data Frame in R &/or PANDAS)
+
+
+
+ToDO by the next meeting 22.09.21:
+
+
+    Obtain a data file from your local system using any tool on your own choice with the structure similar 
+    (not equal!) to the one shown in lecture presentation. 
+    
+    The data can be in any format suitable for furtehr data analysis (ex:  dat; csv, JSON etc).  --- OK
+    
+    Think of how to clean the data (make the rough data suitable for further analysis   --- NOK
+    
+    Prepare (R, Python, and/or BASH) code templates to analyze the data. --- OK
+    P.S: You can also apply other programming languages that are suitable for data science.
+    
+    
+    Store your code in Github repository
+            Don't forget to comment your code --- NOK
+            Describe the process in README file  --- NOK
+            * Train yourself in submitting materials to Github  through CLI (not just uploading via GUI) 
+            with the relevant commit messags on what has been done  --- OK
+            
+            
+    Prepare a short presentation (3-5 slides at max) on the progress and obtained results 
+    to be presented during the next meetup. --- NOK
+
+
+
+Organizing your work:
+
+    If you already have a repository, just create a new branch and work there (make sure you have shared the repo with staff)
+    If there is no repository, create a new one and share it with course e-mail address: tisubjects@gmail.com so the staff can access your work.
+        IMPORTANT: If the staff cannot access your repository and the relevant materials, those are considered as missing (even if there is something in)!

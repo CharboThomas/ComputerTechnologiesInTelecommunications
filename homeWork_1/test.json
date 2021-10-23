@@ -1,0 +1,9 @@
+{"ligne_0": [{"cmd": "PING", "cible": "www.google.com", "ip": "(216.58.207.228)"}], 
+
+"ligne_1": [{"size": "64", "serveur": "arn09s19-in-f4.1e100.net", "ip": "(216.58.207.228):", "icmp_seq": "1", "ttl": "58", "temps": "28.0"}], 
+"ligne_2": [{"size": "64", "serveur": "arn09s19-in-f4.1e100.net", "ip": "(216.58.207.228):", "icmp_seq": "2", "ttl": "58", "temps": "301"}], 
+"ligne_3": [{"size": "64", "serveur": "arn09s19-in-f4.1e100.net", "ip": "(216.58.207.228):", "icmp_seq": "3", "ttl": "58", "temps": "42.7"}], 
+"ligne_4": [{"size": "64", "serveur": "arn09s19-in-f4.1e100.net", "ip": "(216.58.207.228):", "icmp_seq": "4", "ttl": "58", "temps": "57.1"}], 
+
+"ligne_7": [{"transmis": "4", "recus": "4", "perdu": "0%", "temps": "3001ms"}], 
+"ligne_8": [{"min": "27.971", "avg": "107.177", "max": "300.957", "mdev": "112.352"}]}

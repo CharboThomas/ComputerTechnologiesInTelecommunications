@@ -1,0 +1,51 @@
+Week-4 Exercise (1/3)
+
+    Students are given a per-prepared .csv data file on automotive topic
+
+    Create a new Jupyter notebook in Google Colabs
+
+        Use Google Chrome browser while working with Google Colabs (issues may come up with Firefox)
+
+    Share the link to your notebook in our Slack channel #rae473-course
+
+    Train yourself with a given exercise using PANDAS (details on the next slide)
+
+
+
+Week-4 Exercise:
+
+    1 - Use the .csv file and assign it to a dataframe called cars --- OK
+
+    2 - Print the number of rows in the dataset; --- OK
+
+    3 - Print the name of all the columns --- OK 
+
+    4 - Print only the records with cars of red color; --- OK
+
+    5 - Select all the records where the year IS NOT "1992" --- OK
+
+    6 - Select model, year and price columns for the cars  from the last 10 rows --- OK
+
+    7 - Calculate statistical data for the price column as follows:
+
+	    a - Select and print 5 lines from the beginning of a price column and 
+	    calculate sum of the values, minimal value, maximal value, median
+
+    	    b - Select and print 5 lines from the end of a price column and calculate sum 
+    	    of the values, minimal value, maximal value, median
+
+    * Apply to the data frame other methods and techniques you know on PANDAS 
+    (or have learnt from offered training)
+
+
+Link : 
+
+	Jupyter : https://jupyter.org/
+
+	Google Colabs: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+
+	Getting started with PANDAS: https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
+
+	PANDAS Tutorial: https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+	Complete PANDAS Data Science Tutorial: https://www.youtube.com/watch?v=vmEHCJofslg
